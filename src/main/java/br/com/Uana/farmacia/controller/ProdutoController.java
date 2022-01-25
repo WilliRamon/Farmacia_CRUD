@@ -17,6 +17,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import br.com.Uana.farmacia.model.Produto;
+import br.com.Uana.farmacia.repository.ProdutoRepository;
+
 
 
 @RestController
