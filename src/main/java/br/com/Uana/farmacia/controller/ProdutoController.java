@@ -25,7 +25,6 @@ import br.com.Uana.farmacia.repository.ProdutoRepository;
 @RestController
 @RequestMapping("/produto")
 @CrossOrigin(origins="*", allowedHeaders = "*")
-
 public class ProdutoController {
 	
 	@Autowired
